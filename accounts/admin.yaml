@@ -1,0 +1,11 @@
+email: cole_kainz@hotmail.com
+fullname: 'Cole Kainz'
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$HldRI0ZGS8i.AemHownjm.jo2qsRR3AApEOlaMO8tbHZK6JySX4Vm
